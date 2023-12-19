@@ -79,10 +79,12 @@ input{
 /* Home.html styles */
 .home {
     text-align: center;
+    color: navy;
 }
 
 /* contact.html */
 .pic {
     display: block;
     float: right;
+    height: 300pxs;
 }
